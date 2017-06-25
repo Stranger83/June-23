@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalException", "Person
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCatch", "PlayCatch\PlayCatch.csproj", "{82A66A18-29F2-4CA6-8D0F-A8DCE517D0BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PunctuationFinder", "PunctuationFinder\PunctuationFinder.csproj", "{BF6FFA39-459D-450A-9CDA-871DCF91A61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteToFile", "WriteToFile\WriteToFile.csproj", "{D489EFB5-22ED-41C0-8755-511FD7099E90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{82A66A18-29F2-4CA6-8D0F-A8DCE517D0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82A66A18-29F2-4CA6-8D0F-A8DCE517D0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82A66A18-29F2-4CA6-8D0F-A8DCE517D0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6FFA39-459D-450A-9CDA-871DCF91A61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6FFA39-459D-450A-9CDA-871DCF91A61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6FFA39-459D-450A-9CDA-871DCF91A61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6FFA39-459D-450A-9CDA-871DCF91A61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D489EFB5-22ED-41C0-8755-511FD7099E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D489EFB5-22ED-41C0-8755-511FD7099E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D489EFB5-22ED-41C0-8755-511FD7099E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D489EFB5-22ED-41C0-8755-511FD7099E90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
